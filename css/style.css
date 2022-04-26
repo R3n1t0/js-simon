@@ -1,3 +1,25 @@
 body{
   background-color: #007acc;
 }
+
+
+.container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 50%;
+  height: 300px;
+  margin:  0 auto;
+  background-color: #1d2225;
+  border-radius: 10px;
+}
+
+button
+
+.box{
+  width: 15%;
+  height: 100px;
+  background-color: #37c3f1;
+  color: white;
+}
+
